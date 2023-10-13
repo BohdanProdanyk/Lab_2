@@ -30,5 +30,10 @@ public class One {
         int cc = xx + yy;
         return cc;
     }
+       public void process(One car1){
+           System.out.println(car1.car);
+           System.out.println(car1.speed);
+        
+    }
 
 }
