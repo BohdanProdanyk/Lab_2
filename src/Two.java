@@ -11,6 +11,8 @@ public class Two {
         int cc = xx * yy;
         return cc;
     }
-
+    public void process(One color){
+        
+    }
 }
 
