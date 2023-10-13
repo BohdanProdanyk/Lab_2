@@ -11,8 +11,5 @@ public class Two {
         int cc = xx * yy;
         return cc;
     }
-    public void process(One car1, One car2){
-        
-    }
 }
 
