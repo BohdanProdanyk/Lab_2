@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Клас One");
         One one = new One("Porshe",24,150, 2100);
+        One car = new One();
         //Перевизначиння методів один double другий int
         //Час за який машина проїде дистанцію
         System.out.println(one.x());
