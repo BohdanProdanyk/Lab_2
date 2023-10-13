@@ -12,6 +12,8 @@ public class Main {
         one.y(8);
         //перевантаження
         System.out.println(one.metod(5,5));
+        //task 2
+        car.process(car);
 
         System.out.println("Клас Two");
         Two two = new Two();
